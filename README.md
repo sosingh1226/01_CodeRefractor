@@ -1,4 +1,7 @@
-# homework-week-1
+01_CodeRefractor
+
+Repo Link: https://github.com/sosingh1226/homework-week-1.git
+Deployed Link: https://sosingh1226.github.io/homework-week-1/
 
 Title: Code Refractor
 
